@@ -1,6 +1,6 @@
 # Summary
 
-- [gitbook 샘플](README.md)
-- [1장. 샘플 1](./basic/README.md)
-  - [1. 개념](./basic/01-concept.md)
-  - [2. 작업환경 준비](./basic/02-prepare.md)
+- [마크업 정리](README.md)
+- [1장. 환경](./basic/README.md)
+  - [1. 결과물](./basic/01-result.md)
+  - [2. 사전 공부](./basic/02-prepare.md)
